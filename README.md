@@ -6,6 +6,12 @@
 
 - [The Software Engineer Guidebook](./books/The-Software-Engineer-Guidebook.pdf) by Gergely Orosz
 
+> I'm not sure if you know about Gergely Orosz and his newsletter (The Pragmatic Engineer), but this is a book written by him. I think it's a good read, especially at the beginning of your career. Make sure to read at least Part I and II!
+
+> The "Getting things done" of Part II is especially important
+
+
+
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
