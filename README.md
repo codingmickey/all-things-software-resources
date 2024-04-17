@@ -10,6 +10,9 @@
 
 > The "Getting things done" of Part II is especially important
 
+- [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS?tab=readme-ov-file)
+
+- [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 
 
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
