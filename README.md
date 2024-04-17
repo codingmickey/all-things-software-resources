@@ -27,6 +27,10 @@ of the Genius Programmer](https://leanpub.com/genius) by Brian Fitzpatrick and B
 - [Code Simplicity](http://www.codesimplicity.com/)
 - [A List Apart](https://alistapart.com/)
 
+### Misc
+
+- [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/)
+
 ## Courses
 
 - [Software Engineering: Introduction](https://www.coursera.org/learn/software-engineering-introduction) by University of British Columbia
