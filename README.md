@@ -21,6 +21,8 @@
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler
 - [The Myth
 of the Genius Programmer](https://leanpub.com/genius) by Brian Fitzpatrick and Ben Collins-Sussman
+- [High Performance Browser Networking](https://hpbn.co)
+- https://notes.eatonphil.com/books-developers-should-read.html
 
 ## Blogs
 
