@@ -1,6 +1,6 @@
 # Software Engineering Books to read
 
-+ some resources that I try to follow to improve my software engineering skills
+- some resources that I try to follow to improve my software engineering skills
 
 ## Books
 
@@ -10,19 +10,24 @@
 
 > The "Getting things done" of Part II is especially important
 
+- [Remote: Office Not Required](./books//remote-office-not-required.pdf) by Jason Fried and David Heinemeier Hansson
+
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS?tab=readme-ov-file)
 
 - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
-
 
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler
 - [The Myth
-of the Genius Programmer](https://leanpub.com/genius) by Brian Fitzpatrick and Ben Collins-Sussman
-- [High Performance Browser Networking](https://hpbn.co)
+  of the Genius Programmer](https://leanpub.com/genius) by Brian Fitzpatrick and Ben Co llins-Sussman
 - https://notes.eatonphil.com/books-developers-should-read.html
+
+### Computer Networks
+
+- [High Performance Browser Networking](https://hpbn.co)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html) https://beej.us/guide/bgnet/
 
 ## Blogs
 
@@ -70,8 +75,6 @@ of the Genius Programmer](https://leanpub.com/genius) by Brian Fitzpatrick and B
 
 ## Tools
 
-
-
 ## Conferences
 
 - [QCon](https://qconferences.com/)
@@ -79,7 +82,6 @@ of the Genius Programmer](https://leanpub.com/genius) by Brian Fitzpatrick and B
 - [GOTO Conferences](https://gotocon.com/)
 - [Agile Alliance](https://www.agilealliance.org/)
 - [IEEE Software Engineering Conference](https://www.computer.org/education/elearning/SE-conferences)
-
 
 ## People
 
@@ -111,7 +113,6 @@ of the Genius Programmer](https://leanpub.com/genius) by Brian Fitzpatrick and B
 - [The Software Engineering Daily Newsletter](https://softwareengineeringdaily.com/subscribe/)
 - [The Morning Brew](https://www.themorningbrew.io/)
 
-
 ## Websites
 
 - [Stack Overflow](https://stackoverflow.com/)
@@ -120,5 +121,3 @@ of the Genius Programmer](https://leanpub.com/genius) by Brian Fitzpatrick and B
 - [Reddit: Software Engineering](https://www.reddit.com/r/softwareengineering/)
 - [Reddit: Learn Programming](https://www.reddit.com/r/learnprogramming/)
 - [Reddit: Computer Science](https://www.reddit.com/r/compsci/)
-
-                                                                                            
