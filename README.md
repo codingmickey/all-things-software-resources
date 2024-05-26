@@ -1,4 +1,4 @@
-# Software Engineering Books to read
+# All Things Software Engineering Resources 🚀
 
 - some resources that I try to follow to improve my software engineering skills
 
